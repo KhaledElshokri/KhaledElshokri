@@ -19,8 +19,8 @@ I am a Computer Engineering student graduating in 2026! Looking for Internship o
 -----
 
 # Tech Stack
-[![Web Dev](https://skillicons.dev/icons?i=js,mongodb,react,nodejs)](https://skillicons.dev)
+[![Other Langs](https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark)](https://skillicons.dev)  
 
-[![Other Langs](https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark)](https://skillicons.dev)
+[![Web Dev](https://skillicons.dev/icons?i=js,mongodb,react,nodejs)](https://skillicons.dev)  
 
-[![Tools](https://skillicons.dev/icons?i=vscode,postman,github,eclipse&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,arduino,bash,jenkins,visualstudio,postman,github,blender,azure,eclipse&theme=dark)](https://skillicons.dev)
