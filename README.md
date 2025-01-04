@@ -5,7 +5,7 @@ I am a Computer Engineering student graduating in 2026! Looking for Internship o
 
 ### :briefcase: Credentials
 - Experience:
-  - Incoming intern at Autodesk
+  - Incoming SWE intern at Autodesk
   - Interned at CAE Inc. for 12 months
   - Teaching Assistant at Concordia University
   - You can view a few of my projects here on my GitHub page!
@@ -16,7 +16,7 @@ I am a Computer Engineering student graduating in 2026! Looking for Internship o
   - Based in Montreal
   - Grinding LeetCode
   - Looking for Internships
-  - Learning RTOS and AI
+  - Learning Communication protocols and AI
 -----
 
 # Tech Stack
