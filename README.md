@@ -1,13 +1,13 @@
 ### Hi There! My name is Khaled.
 -----
 # :postbox: About Me
-I am a Computer Engineering student graduating in 2026! Looking for Internship opportunities for summer 2025
+I am a Computer Engineering student graduating in May 2026! Looking for Internship opportunities for winter 2026
 
 ### :briefcase: Credentials
 - Experience:
-  - Incoming SWE intern at Autodesk
-  - Interned at CAE Inc. for 12 months
-  - Teaching Assistant at Concordia University
+  - Currently SWE intern at Autodesk since Jan 2025
+  - Previously C++ Dev Intern at CAE Inc. for 12 months
+  - Teaching Assistant for COEN 212 and COEN 390 at Concordia University
   - You can view a few of my projects here on my GitHub page!
 -----
 
